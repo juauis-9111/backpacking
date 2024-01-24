@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Fix PNNX ubuntu -> linux bug (#7050)
